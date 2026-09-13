@@ -1,35 +1,104 @@
-# Hi there 👋, I'm Mukhyaprana
+# ⚡ MUKHYAPRANA ⚡
 
-🎓 3rd Year Computer Science Engineering Student
+<div align="center">
 
-## 🌱 Currently Learning
-- Python Programming
-- Object-Oriented Programming (OOP)
-- Data Structures & Algorithms
-- Git & GitHub
+# 🚀 FUTURE SOFTWARE ENGINEER 🚀
 
-## 💻 What I'm Working On
-- Python Practice Programs
-- Mini Python Projects
-- Improving Problem-Solving Skills
+### 💻 Python Learner | 🎓 CSE Student | 🔥 Dream Builder
 
-## 🎯 Goals for 2026
-- Build 10+ Python Projects
-- Learn Web Development
-- Contribute to Open Source
-- Become a Software Engineer
+</div>
 
-## 🛠️ Tools & Technologies
-- Python
-- Git
-- GitHub
-- VS Code
+---
 
-## 📫 Connect With Me
-- LinkedIn: www.linkedin.com/in/mukhyaprana-gowda-144690423
+## 🧠 About Me
 
-## ⚡ Fun Fact
-Every expert programmer started as a beginner. I'm building my skills one project at a time.
+```python
+class Mukhyaprana:
+
+    def __init__(self):
+        self.role = "Computer Science Student"
+        self.college = "KVG College of Engineering"
+        self.learning = ["Python", "Git", "GitHub"]
+        self.goal = "Become a Software Engineer"
+
+    def status(self):
+        return "Learning something new every day 🚀"
+
+me = Mukhyaprana()
+print(me.status())
+```
+
+### Output
+```
+Learning something new every day 🚀
+```
+
+---
+
+## ⚔️ Current Mission
+
+✅ Learn Python
+
+✅ Build Projects
+
+✅ Master GitHub
+
+⬜ Open Source Contributions
+
+⬜ Internship
+
+⬜ Software Engineer
+
+---
+
+## 🛠️ Tech Arsenal
+
+🐍 Python
+
+⚡ Git
+
+🚀 GitHub
+
+💻 VS Code
+
+---
+
+## 🎯 2026 Goals
+
+🔥 Build 20 Python Projects
+
+🔥 Learn DSA
+
+🔥 Create My Own App
+
+🔥 Contribute to Open Source
+
+🔥 Get Internship
+
+---
+
+## 📊 Power Level
+
+```
+Python          ███████░░░ 70%
+Problem Solving ██████░░░░ 60%
+GitHub          ██████░░░░ 60%
+DSA             ███░░░░░░░ 30%
+```
+
+---
+
+## 🌎 Connect With Me
+
+💼 LinkedIn:
+www.linkedin.com/in/mukhyaprana-gowda-144690423
+
+📸 Instagram:
+@mukhyaprana5
+
+---
+
+# "Every expert was once a beginner."
 
 <!--
 **mukhyapranagowda-ai/mukhyapranagowda-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
