@@ -91,7 +91,7 @@ DSA             ███░░░░░░░ 30%
 ## 🌎 Connect With Me
 
 💼 LinkedIn:
-www.linkedin.com/in/mukhyaprana-gowda-144690423
+https://www.linkedin.com/in/mukhyaprana-h-m-144690423?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 📸 Instagram:
 @mukhyaprana5
